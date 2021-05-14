@@ -1,5 +1,4 @@
   PImage img;
-  String gen = "gen01";
   String path = "../generative/gen01/";
   String[] filenames = listFileNames(path);
   String[] layers = listFileNames(path+"/"+filenames[0]);
